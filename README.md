@@ -34,12 +34,11 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Installation
 - Mongoose
-- Express.js
-- JavaScript Date Library
-- Morgan
+- JS
+- React
 
 ## Usage
-Please view my demo video in asset folder to see a live demo of this application in insomnia
+Please view my demo video in asset folder to see a live demo of this application 
    
 ## Features
 - Redux
